@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{231e6b09-9e26-4a8b-a46b-4d738c5ff506}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>12.583741496598639</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/AMB_GRAVEYARD_ZOMBIE_04 {cde03ab2-697b-45a9-a4e9-032641d98a9a}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{d9b700bc-c82b-46cb-8020-a814a90e598f}</destination>
+        </relationship>
+    </object>
+</objects>

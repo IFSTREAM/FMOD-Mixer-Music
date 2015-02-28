@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{82836d50-d1af-4961-9a98-068e6747abea}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>22.25</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/AMB_GRAVEYARD_BELL_03 {d85a1d24-83af-4d88-912c-80b448166937}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{d9b700bc-c82b-46cb-8020-a814a90e598f}</destination>
+        </relationship>
+    </object>
+</objects>
